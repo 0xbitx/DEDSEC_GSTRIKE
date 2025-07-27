@@ -36,8 +36,6 @@ GSTRIKE makes it easier to craft convincing phishing emails that look and feel l
 
 ### SCREENSHOT 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/896e6463-4875-46da-a7b3-25a095805cc2", width="500", height="500">
-<img src="https://github.com/user-attachments/assets/c0674ef8-6f03-47b8-a309-efd6fcaa47d5" width="500", height="500">
 <img src="https://github.com/user-attachments/assets/a9aa1b69-8097-466e-86d4-4f4c0a3d13f4" width="500", height="500">
 <img src="https://github.com/user-attachments/assets/0a0596d5-a68c-483a-abaa-5a788b6aeca0" width="500", height="500">
 <img src="https://github.com/user-attachments/assets/cfc99a12-8353-4abe-9ac8-ea5c1fe9a4ed" width="500", height="500">
