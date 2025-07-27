@@ -12,17 +12,19 @@ GSTRIKE is a powerful Google-based spear phishing toolkit created to simulate re
 GSTRIKE makes it easier to craft convincing phishing emails that look and feel legitimate by mimicking Google's native email styles and integrating user-supplied data dynamically.
 
 ## FEATURES
-  * Automated Email Template Generator: Generate Google-style emails with custom content, links, and spoofed addresses.
-  
-  * Default Template: Comes with a built-in, preloaded template (Template 27) styled to mimic real Google security alerts.
+   * Automated Email Template Generator: Generate Google-style emails with custom content, links, and spoofed addresses.
+     
+   * Realistic Email Templates: Includes multiple prebuilt templates resembling real Google security alerts — designed to trigger user interaction by mimicking security warnings, login alerts, or unusual activity messages.
+     
+   * 2FA OTP Capture: Includes support for harvesting one-time passcodes (OTP). When the victim enters a 2FA code into the spoofed login form, the tool can capture and display it in real time.
+     
+   * Port Forwarding Support: Integration with services like ngrok for exposing local phishing pages or payloads over the internet for testing or engagement.
+     
+   * EML File Support: Allows importing and modifying .eml message files. Useful for cloning and customizing authentic email layouts.
+     
+   * Built-in Email Sender: Send phishing emails directly from the tool using your own SMTP credentials. Just enter your email address and app-specific password to start sending.
 
-  * Template Modification: Automatically replace clickable URLs, and embedded email addresses.
 
-  * Port Forwarding Support: integration for testing payloads or hosting malicious landing pages.
-
-  * EML File Support: Extract and modify .eml message files to reuse or customize real email content.
-  
-  *  Built-in Email Sender: Send phishing emails directly from the tool. Just input your email address and App password credentials to use it as the sender.
 
 ### HOW TO GET YOUR GMAIL KEY
    1. goto this link: https://myaccount.google.com/u/0/apppasswords
