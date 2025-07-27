@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8ec3d5a3-5348-49d9-8862-9e8430a685e5", width="500", height="500">
+<img src="https://github.com/user-attachments/assets/b0b2889d-ddb0-4000-85d5-c996ee4afa9a", width="500", height="500">
 </p>
 
 <h1 align="center">DEDSEC_GSTRIKE</h1> <h4 align="center">Spear Phishing Toolkit Designed to Simulate Real-Life Attacks</h4>
