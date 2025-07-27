@@ -49,7 +49,7 @@ GSTRIKE makes it easier to craft convincing phishing emails that look and feel l
 ### INSTALLATION
 
     git clone https://github.com/0xbitx/DEDSEC_GSTRIKE.git
-    pip3 install tqdm tabulate "qrcode[pil]"
+    pip3 install requests qrcode[pil] tabulate tqdm beautifulsoup4
     cd DEDSEC_GSTRIKE
     chmod +x dedsec-gstrike
     ./dedsec-gstrike
