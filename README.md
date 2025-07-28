@@ -12,7 +12,7 @@ GSTRIKE is a powerful Google-based spear phishing toolkit created to simulate re
 GSTRIKE makes it easier to craft convincing phishing emails that look and feel legitimate by mimicking Google's native email styles and integrating user-supplied data dynamically.
 
 ## FEATURES
-   * Automated Email Template Generator: Generate Google-style emails with custom content, links, and spoofed addresses.
+   * Automated Email Template Generator: Generate Google-style emails with custom content, links, and spoofed address, profile picture.
      
    * Realistic Email Templates: Includes multiple prebuilt templates resembling real Google security alerts — designed to trigger user interaction by mimicking security warnings, login alerts, or unusual activity messages.
      
