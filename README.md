@@ -18,12 +18,11 @@ GSTRIKE makes it easier to craft convincing phishing emails that look and feel l
      
    * 2FA OTP Capture: Includes support for harvesting one-time passcodes (OTP). When the victim enters a 2FA code into the spoofed login form, the tool can capture and display it in real time.
      
-   * Port Forwarding Support: Integration with services like ngrok for exposing local phishing pages or payloads over the internet for testing or engagement.
+   * Port Forwarding Support: Integration with services like cloudflare for exposing local phishing pages over the internet for testing or engagement.
      
-   * EML File Support: Allows importing and modifying .eml message files. Useful for cloning and customizing authentic email layouts.
+   * EML File Support: Allows importing and modifying google .eml message files. Useful for cloning and customizing authentic google email layouts.
      
    * Built-in Email Sender: Send phishing emails directly from the tool using your own SMTP credentials. Just enter your email address and app-specific password to start sending.
-
 
 
 ### HOW TO GET YOUR GMAIL KEY
